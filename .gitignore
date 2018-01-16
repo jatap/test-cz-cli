@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# Build folder
+lib/
+
+# IDE's
+.vscode/
+
+# Other
+.tmp
+.DS_Store
+.npm_install_log
+npm-debug.log*
+.eslintrc
+*-lock.json
