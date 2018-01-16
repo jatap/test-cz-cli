@@ -1,0 +1,22 @@
+{
+  "name": "test-cz-cli",
+  "version": "1.0.0",
+  "description": "Test Commitizen",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jatap/test-cz-cli.git"
+  },
+  "keywords": [
+    "Commitizen"
+  ],
+  "author": "Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jatap/test-cz-cli/issues"
+  },
+  "homepage": "https://github.com/jatap/test-cz-cli#readme"
+}
