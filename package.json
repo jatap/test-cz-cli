@@ -4,6 +4,7 @@
   "description": "Test Commitizen",
   "main": "src/index.js",
   "scripts": {
+    "git-cz": "git cz",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,12 +21,13 @@
   },
   "homepage": "https://github.com/jatap/test-cz-cli#readme",
   "devDependencies": {
-    "cz-conventional-changelog": "2.1.0",
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.1.0",
     "semantic-release": "12.2.2"
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
+      "path": "cz-conventional-changelog"
     }
   }
 }
