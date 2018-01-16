@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/jatap/test-cz-cli/issues"
   },
-  "homepage": "https://github.com/jatap/test-cz-cli#readme"
+  "homepage": "https://github.com/jatap/test-cz-cli#readme",
+  "devDependencies": {
+    "cz-conventional-changelog": "2.1.0",
+    "semantic-release": "12.2.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
 }
