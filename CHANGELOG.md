@@ -1,3 +1,13 @@
+<a name="1.0.4"></a>
+## [1.0.4](https://github.com/jatap/test-cz-cli/compare/1.0.3...1.0.4) (2018-01-17)
+
+
+### Features
+
+* sample iteration n 2 ([#6](https://github.com/jatap/test-cz-cli/issues/6)) ([494c685](https://github.com/jatap/test-cz-cli/commit/494c685)), closes [#GGMRS-1210](https://github.com/jatap/test-cz-cli/issues/GGMRS-1210)
+
+
+
 <a name="1.0.3"></a>
 ## [1.0.3](https://github.com/jatap/test-cz-cli/compare/1.0.2...1.0.3) (2018-01-17)
 
