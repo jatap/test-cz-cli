@@ -4,7 +4,8 @@
   "description": "Test Commitizen",
   "main": "src/index.js",
   "scripts": {
-    "cm": "git cz"
+    "cm": "git cz",
+    "release": "standard-version -t ''"
   },
   "repository": {
     "type": "git",
@@ -21,6 +22,7 @@
   "homepage": "https://github.com/jatap/test-cz-cli#readme",
   "devDependencies": {
     "commitizen": "^2.9.6",
-    "husky": "^0.14.3"
+    "husky": "^0.14.3",
+    "standard-version": "^4.3.0"
   }
 }
