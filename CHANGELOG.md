@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="7.0.0"></a>
+# [7.0.0](https://github.com/jatap/test-cz-cli/compare/6.0.0...7.0.0) (2018-01-18)
+
+
+### Features
+
+* **style:** proper WIP with two commits per pr ([#47](https://github.com/jatap/test-cz-cli/issues/47)) ([00d3777](https://github.com/jatap/test-cz-cli/commit/00d3777))
+
+
+### BREAKING CHANGES
+
+* **style:** Let's go to the moon
+
+
+
 <a name="6.0.0"></a>
 # [6.0.0](https://github.com/jatap/test-cz-cli/compare/5.0.0...6.0.0) (2018-01-18)
 
