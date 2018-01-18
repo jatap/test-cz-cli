@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.0.0"></a>
+# [2.0.0](https://github.com/jatap/test-cz-cli/compare/1.5.0...2.0.0) (2018-01-18)
+
+
+### Features
+
+* another breaking feature ([#22](https://github.com/jatap/test-cz-cli/issues/22)) ([ec16ada](https://github.com/jatap/test-cz-cli/commit/ec16ada))
+
+
+### BREAKING CHANGES
+
+* change signature for method B
+
+
+
 <a name="1.5.0"></a>
 # [1.5.0](https://github.com/jatap/test-cz-cli/compare/1.4.0...1.5.0) (2018-01-18)
 
