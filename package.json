@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "cm": "git cz",
-    "postcommit": "./scripts/postcommit.sh",
+    "postrelease": "./scripts/postrelease.sh",
     "release": "standard-version -t ''",
     "push": "git push --follow-tags origin master"
   },
