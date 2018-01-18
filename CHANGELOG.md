@@ -1,3 +1,7 @@
+# Change Log
+
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
 <a name="1.0.4"></a>
 ## [1.0.4](https://github.com/jatap/test-cz-cli/compare/1.0.3...1.0.4) (2018-01-17)
 
@@ -55,6 +59,3 @@
 * sample iteration 1 ([4d6667e](https://github.com/jatap/test-cz-cli/commit/4d6667e))
 * sample iteration 2 ([b74f94b](https://github.com/jatap/test-cz-cli/commit/b74f94b))
 * sample iteration 4 ([0b8de6f](https://github.com/jatap/test-cz-cli/commit/0b8de6f))
-
-
-
