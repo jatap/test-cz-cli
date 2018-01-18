@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="2.2.0"></a>
+# [2.2.0](https://github.com/jatap/test-cz-cli/compare/2.1.1...2.2.0) (2018-01-18)
+
+
+### Bug Fixes
+
+* sample fix 1 ([#26](https://github.com/jatap/test-cz-cli/issues/26)) ([92d6cdd](https://github.com/jatap/test-cz-cli/commit/92d6cdd))
+
+
+### Features
+
+* sample breaking change feature 1 ([#29](https://github.com/jatap/test-cz-cli/issues/29)) ([f439ca7](https://github.com/jatap/test-cz-cli/commit/f439ca7))
+* sample feature 1 ([#27](https://github.com/jatap/test-cz-cli/issues/27)) ([5b8887d](https://github.com/jatap/test-cz-cli/commit/5b8887d))
+
+
+### Performance Improvements
+
+* sample perf 1 ([#33](https://github.com/jatap/test-cz-cli/issues/33)) ([033d28a](https://github.com/jatap/test-cz-cli/commit/033d28a))
+
+
+
 <a name="2.1.1"></a>
 ## [2.1.1](https://github.com/jatap/test-cz-cli/compare/2.1.0...2.1.1) (2018-01-18)
 
