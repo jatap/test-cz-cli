@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.1.0"></a>
+# [3.1.0](https://github.com/jatap/test-cz-cli/compare/3.0.0...3.1.0) (2018-01-18)
+
+
+### Features
+
+* sample feature multi commit 1 ([#40](https://github.com/jatap/test-cz-cli/issues/40)) ([24a0cbb](https://github.com/jatap/test-cz-cli/commit/24a0cbb))
+
+
+
 <a name="3.0.0"></a>
 # [3.0.0](https://github.com/jatap/test-cz-cli/compare/2.3.0...3.0.0) (2018-01-18)
 
