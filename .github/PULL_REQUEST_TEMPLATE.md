@@ -7,17 +7,17 @@
 ### Related PRs
 - https://github.com/giffgaff/
 
-### Bug Fixes
+#### Bug Fixes
 - XXX
 
-### Chores
+#### Chores
 - XXX
 
-### Features
+#### Features
 - XXX
 
-### BREAKING CHANGES
+#### Performance Improvements
 - XXX
 
-### Performance Improvements
+#### BREAKING CHANGES
 - XXX
