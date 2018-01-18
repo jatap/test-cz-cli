@@ -13,8 +13,7 @@ module.exports = {
     {name: 'core'},
     {name: 'components'},
     {name: 'unitTest'},
-    {name: 'e2eTest'},
-    {name: 'changeMe'}
+    {name: 'e2eTest'}
   ],
 
   allowCustomScopes: true,
