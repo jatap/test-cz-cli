@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="5.0.0"></a>
+# [5.0.0](https://github.com/jatap/test-cz-cli/compare/4.0.0...5.0.0) (2018-01-18)
+
+
+### Features
+
+* **github:** clean commit scopes ([#43](https://github.com/jatap/test-cz-cli/issues/43)) ([bd95a34](https://github.com/jatap/test-cz-cli/commit/bd95a34))
+* **github:** reclean commit scopes ([#44](https://github.com/jatap/test-cz-cli/issues/44)) ([0310761](https://github.com/jatap/test-cz-cli/commit/0310761))
+* **style:** adapt GitHub Templates ([#42](https://github.com/jatap/test-cz-cli/issues/42)) ([6565348](https://github.com/jatap/test-cz-cli/commit/6565348))
+
+
+### BREAKING CHANGES
+
+* **github:** Voila !!
+
+* feat(github): change pr status
+
+long change pr status
+
+
+
 <a name="4.0.0"></a>
 # [4.0.0](https://github.com/jatap/test-cz-cli/compare/3.1.0...4.0.0) (2018-01-18)
 
