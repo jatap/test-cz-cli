@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "cm": "git cz",
+    "precommit": "npm install && git add .",
     "release": "standard-version -t ''",
     "push": "git push --follow-tags origin master"
   },
