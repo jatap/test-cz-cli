@@ -1,7 +1,7 @@
 ### Status
 - [x] ready
 - [ ] in development
-- [ ] hold
+- [ ] on hold
 - [ ] test (**don't merge**)
 
 ***
