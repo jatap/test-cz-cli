@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/jatap/test-cz-cli/compare/1.0.4...1.1.0) (2018-01-18)
+
+
+### Features
+
+* add standard-version ([#11](https://github.com/jatap/test-cz-cli/issues/11)) ([b9fbbf8](https://github.com/jatap/test-cz-cli/commit/b9fbbf8))
+* delete commitlint references ([#8](https://github.com/jatap/test-cz-cli/issues/8)) ([b70d042](https://github.com/jatap/test-cz-cli/commit/b70d042))
+* delete default commitizen changelog adapter ([#10](https://github.com/jatap/test-cz-cli/issues/10)) ([5209401](https://github.com/jatap/test-cz-cli/commit/5209401))
+* delete semantic-release package ([#9](https://github.com/jatap/test-cz-cli/issues/9)) ([821691a](https://github.com/jatap/test-cz-cli/commit/821691a))
+
+
+
 <a name="1.0.4"></a>
 ## [1.0.4](https://github.com/jatap/test-cz-cli/compare/1.0.3...1.0.4) (2018-01-17)
 
