@@ -1,8 +1,8 @@
 ### Status
-[x] ready
-[ ] in development
-[ ] hold
-[ ] test (**don't merge**)
+- [x] ready
+- [ ] in development
+- [ ] hold
+- [ ] test (**don't merge**)
 
 ***
 
