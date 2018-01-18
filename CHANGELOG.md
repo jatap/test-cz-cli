@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/jatap/test-cz-cli/compare/1.1.0...1.2.0) (2018-01-18)
+
+
+### Features
+
+* add precommit to commit package lock changes ([#13](https://github.com/jatap/test-cz-cli/issues/13)) ([2556719](https://github.com/jatap/test-cz-cli/commit/2556719))
+* automate final git push after a new release ([#12](https://github.com/jatap/test-cz-cli/issues/12)) ([f0b2314](https://github.com/jatap/test-cz-cli/commit/f0b2314))
+
+
+
 <a name="1.1.0"></a>
 # [1.1.0](https://github.com/jatap/test-cz-cli/compare/1.0.4...1.1.0) (2018-01-18)
 
