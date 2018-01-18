@@ -4,7 +4,7 @@
   "description": "Test Commitizen",
   "main": "src/index.js",
   "scripts": {
-    "git-cz": "git cz"
+    "cm": "git cz"
   },
   "repository": {
     "type": "git",
@@ -21,12 +21,6 @@
   "homepage": "https://github.com/jatap/test-cz-cli#readme",
   "devDependencies": {
     "commitizen": "^2.9.6",
-    "cz-conventional-changelog": "^2.1.0",
     "husky": "^0.14.3"
-  },
-  "config": {
-    "commitizen": {
-      "path": "cz-conventional-changelog"
-    }
   }
 }
