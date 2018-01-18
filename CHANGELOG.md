@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="4.0.0"></a>
+# [4.0.0](https://github.com/jatap/test-cz-cli/compare/3.1.0...4.0.0) (2018-01-18)
+
+
+### Features
+
+* **core:** sample cz-customizable application ([#41](https://github.com/jatap/test-cz-cli/issues/41)) ([a59bdd0](https://github.com/jatap/test-cz-cli/commit/a59bdd0))
+
+
+### BREAKING CHANGES
+
+* **core:** This is a bloody breaking change
+
+
+
 <a name="3.1.0"></a>
 # [3.1.0](https://github.com/jatap/test-cz-cli/compare/3.0.0...3.1.0) (2018-01-18)
 
