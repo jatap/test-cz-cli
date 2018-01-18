@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="3.0.0"></a>
+# [3.0.0](https://github.com/jatap/test-cz-cli/compare/2.3.0...3.0.0) (2018-01-18)
+
+
+### Features
+
+* breaking change 2 ([#39](https://github.com/jatap/test-cz-cli/issues/39)) ([44d703f](https://github.com/jatap/test-cz-cli/commit/44d703f))
+
+
+### BREAKING CHANGES
+
+* break the world again
+
+
+
 <a name="2.3.0"></a>
 # [2.3.0](https://github.com/jatap/test-cz-cli/compare/2.2.0...2.3.0) (2018-01-18)
 

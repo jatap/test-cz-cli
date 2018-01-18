@@ -1,6 +1,6 @@
 {
   "name": "test-cz-cli",
-  "version": "2.3.0",
+  "version": "3.0.0",
   "description": "Test Commitizen",
   "main": "src/index.js",
   "scripts": {
