@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "cm": "git cz",
-    "postcommit": "npm install && git add package-lock.json && git commit -m 'chore: Update package-lock.json'",
+    "postcommit": "./scripts/postcommit.sh",
     "release": "standard-version -t ''",
     "push": "git push --follow-tags origin master"
   },
