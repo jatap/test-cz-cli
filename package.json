@@ -4,9 +4,7 @@
   "description": "Test Commitizen",
   "main": "src/index.js",
   "scripts": {
-    "commitmsg": "commitlint -e $GIT_PARAMS",
-    "git-cz": "git cz",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "git-cz": "git cz"
   },
   "repository": {
     "type": "git",
@@ -22,8 +20,6 @@
   },
   "homepage": "https://github.com/jatap/test-cz-cli#readme",
   "devDependencies": {
-    "@commitlint/cli": "^6.0.2",
-    "@commitlint/config-conventional": "^6.0.2",
     "commitizen": "^2.9.6",
     "cz-conventional-changelog": "^2.1.0",
     "husky": "^0.14.3",
