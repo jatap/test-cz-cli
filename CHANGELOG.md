@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="9.0.0"></a>
+# [9.0.0](https://github.com/jatap/test-cz-cli/compare/8.0.0...9.0.0) (2018-01-23)
+
+
+### Features
+
+* **core:** sample BC iteration ([4ced8c3](https://github.com/jatap/test-cz-cli/commit/4ced8c3))
+* **core:** sample BC iteration 3 ([e2d3fa3](https://github.com/jatap/test-cz-cli/commit/e2d3fa3))
+
+
+### BREAKING CHANGES
+
+* **core:** Another great BC
+ISSUES: GGTWO-1407
+* **core:** Testing ISSUES on the footer
+
+ISSUES: GGTWO-1407
+
+
+
 <a name="8.0.0"></a>
 # [8.0.0](https://github.com/jatap/test-cz-cli/compare/7.0.0...8.0.0) (2018-01-23)
 
