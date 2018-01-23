@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="8.0.0"></a>
+# [8.0.0](https://github.com/jatap/test-cz-cli/compare/7.0.0...8.0.0) (2018-01-23)
+
+
+### Bug Fixes
+
+* **core:** update commitlint customization ([d3542ec](https://github.com/jatap/test-cz-cli/commit/d3542ec))
+
+
+### Features
+
+* **git:** add commitlint support ([84e8e64](https://github.com/jatap/test-cz-cli/commit/84e8e64))
+
+
+### BREAKING CHANGES
+
+* **core:** Let's move to a new major version.
+ISSUES: GGTWO-1407
+
+
+
 <a name="7.0.0"></a>
 # [7.0.0](https://github.com/jatap/test-cz-cli/compare/6.0.0...7.0.0) (2018-01-18)
 
