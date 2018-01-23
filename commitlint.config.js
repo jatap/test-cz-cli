@@ -6,6 +6,15 @@ module.exports = {
   // Add your own rules. See http://marionebl.github.io/commitlint
   rules: {
     // Disable language rule
-    lang: [0, 'always', 'eng']
+    lang: [0, 'always', 'eng'],
+
+    "scope-enum": [
+      2,
+      'always',
+      [
+        'core',
+        'components'
+      ]
+    ]
   }
 };
